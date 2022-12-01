@@ -1,0 +1,20 @@
+body {
+    color: rgb(146, 24, 233);
+    background-color: rgba(73, 231, 20, 0.345);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    display: flex;
+}
+
+
+a {
+    text-decoration: none;
+    color: darkolivegreen;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
